@@ -36,7 +36,7 @@ aws iot describe-certificate --certificate-id `openssl x509 -in temp.crt -noout 
 
 ## Useful mosquitto commands
 
-Follow the instructions in the [Configuring an external MQTT client](https://quip-amazon.com/1NhgAA8Kmi54#GUU9CAr0TYo) section to set up your credentials for the Mosquitto first.
+Follow the instructions in the [Configuring an external MQTT client](#configuring-an-external-mqtt-client) section to set up your credentials for the Mosquitto first.
 
 ### Subscribe to a topic
 
